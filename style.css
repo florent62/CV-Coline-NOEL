@@ -11,6 +11,14 @@ body {
   color: #292929;
 }
 
+header #container_video {
+  text-align: center;
+}
+header #container_video .video {
+  width: 85%;
+  height: 15em;
+}
+
 main {
   /* tout le contenu de la partie droite sur font blanc*/
   padding: 10%;

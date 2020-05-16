@@ -10,7 +10,15 @@ body{
 	font-family: Roboto,"Segoe UI","Helvetica Neue",Arial,sans-serif,"Segoe UI Emoji","Segoe UI Symbol";
 	color: $color-secondary;
 }
-
+header{
+	#container_video{
+		text-align: center;
+		.video{
+			width: 85%;
+			height: 15em;
+		}
+	}
+}
 main {/* tout le contenu de la partie droite sur font blanc*/
 	padding: 10%;
 	article{
